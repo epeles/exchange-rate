@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/epeles/exchange-rate/issues"
   },
-  "homepage": "https://github.com/epeles/exchange-rate#readme"
+  "homepage": "https://github.com/epeles/exchange-rate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
